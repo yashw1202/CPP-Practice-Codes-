@@ -1,0 +1,1 @@
+{"name":"Local: 4th_arr","url":"c:\\Users\\yashw\\Desktop\\C++\\1_Array\\4th_arr.cpp","tests":[{"id":1663667200692,"input":"5\n12 13 14 15 16 \n14","output":"arr[2]"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\yashw\\Desktop\\C++\\1_Array\\4th_arr.cpp","group":"local","local":true}

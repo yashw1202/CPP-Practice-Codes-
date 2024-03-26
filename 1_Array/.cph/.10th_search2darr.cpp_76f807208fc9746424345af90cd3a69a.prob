@@ -1,0 +1,1 @@
+{"name":"Local: 10th_search2darr","url":"c:\\Users\\yashw\\Desktop\\C++\\1_Array\\10th_search2darr.cpp","tests":[{"id":1677915906628,"input":"2 3 \n23 34 24 45 56 46 \n45","output":"[1,0]"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\yashw\\Desktop\\C++\\1_Array\\10th_search2darr.cpp","group":"local","local":true}

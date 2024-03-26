@@ -1,0 +1,1 @@
+{"name":"Local: 5th_array","url":"c:\\Users\\yashw\\Desktop\\C++\\1_Array\\5th_array.cpp","tests":[{"id":1663833671431,"input":"5\n10 20 30 40 50\n30","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\yashw\\Desktop\\C++\\1_Array\\5th_array.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: 18th_2darray","url":"c:\\Users\\yashw\\Desktop\\C++\\1_Array\\18th_2darray.cpp","tests":[{"id":1693857727829,"input":"5 5\n1 2 3 4 5 \n6 7 8 9 10\n11 12 13 14 15 \n16 17 18 19 20\n21 22 23 24 25","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\yashw\\Desktop\\C++\\1_Array\\18th_2darray.cpp","group":"local","local":true}
